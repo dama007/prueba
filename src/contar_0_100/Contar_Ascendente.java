@@ -19,7 +19,7 @@ public class Contar_Ascendente {
 
         int[] num = new int[100];
          
-        for (int i =0; i< num.length; i++) {
+        for (int i = 0; i < num.length; i++) {
             num[i] = i+1;
         }
         
